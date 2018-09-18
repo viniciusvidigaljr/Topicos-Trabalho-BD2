@@ -1,4 +1,4 @@
-# TRABALHO 01 : Título do trabalho
+# TRABALHO 01 : Sistema para elaboraçãode dietas
 Trabalho desenvolvido durante a disciplina de BD
 
     O referido projeto poderá ser:
@@ -35,13 +35,12 @@ DICA:
 # Sumário
 
 ### 1	COMPONENTES<br>
-Integrantes do grupo<br>
-
+Vinicius Vidigal Junior
 ### 2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+A criação do  sistema visa facilitar e tornar mais eficiente a elaboração de planos alimentares, sendo um substitutos para as planilhas ou mais econômico que outros softwares pagos. <br>
       
 ### 3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+As consultas com a nutricionista iniciam através de uma entrevista onde é verificado histórico de doenças, alergias e uso de medicamentos, em seguida é levantado as informações sobre hábitos alimentares, tais como preferências ou rejeição por determinados tipos de alimento e fatores que possam influenciar na alimentação, como por exemplo religião. Após essa parte inicial é realizada a avaliação antropométrica cujo a finalidade é a coleta de peso, altura, dobras cutâneas e circunferências para a verificação dos dados de composição corporal, com a obtenção dessas informações é calculado o IMC, o peso ideal e estimado o percentual de gordura. Após o término de toda essa avaliação é iniciada a elaboração do plano alimentar através de uma planilha, esse plano é dividido em desjejum, colação almoço, lanche, jantar e ceia, todas estas refeições possuem os alimentos e as quantidades a serem ingeridas pelo cliente. O envio da dieta se faz através de e-mail. <br>
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
